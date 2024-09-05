@@ -47,3 +47,6 @@ Expanded Database: Increase the number of identifiable plants to cover a wider r
 Offline Mode: Allow plant identification without an internet connection by embedding the ML model locally.
 
 User Contributions: Enable users to submit images and information about plants to improve the database.
+
+![IMG-20240905-WA0014 1](https://github.com/user-attachments/assets/c558a496-33df-474a-9f1c-c38d51c9355f)
+
