@@ -1,5 +1,5 @@
 
-# Plant Leaf ID App
+# plant-leaf-dection-flutter-app
 
 **Project Duration**: August 2023 - September 2023
 
@@ -33,7 +33,7 @@ The Plant Leaf ID App is a Flutter-based mobile application that leverages machi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/maveenbalaji/plant-leaf-id-app.git
+   git clone https://github.com/maveenbalaji/plant-leaf-dection-flutter-app.git
    ```
 
 2. Navigate to the project directory:
