@@ -1,6 +1,3 @@
-Here’s a sample README for your Plant Leaf ID App project on GitHub:
-
----
 
 # Plant Leaf ID App
 
