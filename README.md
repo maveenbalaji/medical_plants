@@ -1,8 +1,6 @@
 
 # plant-leaf-dection-flutter-app
 
-**Project Duration**: August 2023 - September 2023
-
 ## Overview
 
 The Plant Leaf ID App is a Flutter-based mobile application that leverages machine learning to instantly identify plant species from leaf photos. This app provides users with accurate names, classifications, and essential care information about the plants they encounter. By combining ML technology and an intuitive design, the app aims to foster a deeper appreciation for the natural world and assist plant enthusiasts in recognizing and caring for various species.
